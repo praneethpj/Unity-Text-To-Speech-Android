@@ -24,7 +24,7 @@ Before run the program add scipt to the scence.
                 tts.Call("setContext", activityContext);
                 activityContext.Call("runOnUiThread", new AndroidJavaRunnable(() =>
                 {
-                    t.text = "INSIDEPLUFIDSSS";
+                   
 
                     String speak = "Hi How are you";
 
